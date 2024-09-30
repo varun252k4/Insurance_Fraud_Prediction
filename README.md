@@ -4,7 +4,7 @@
 
 
 
-[!<a href="https://insurance-fraud-prediction.streamlit.app" style="display: inline-block; padding: 15px 30px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Open Deployed App</a>]
+[![Open Deployed App](https://img.shields.io/badge/Open%20Deployed%20App-Click%20Here-brightgreen)](https://insurance-fraud-prediction.streamlit.app)
 
 ## 📊 Overview
 
