@@ -1,10 +1,10 @@
 # 🕵️‍♂️ Insurance Fraud Detection App
 
-![image](https://github.com/user-attachments/assets/0a15d1aa-a3ea-4ab8-903b-d8e8da0d666b)](https://insurance-fraud-detection.streamlit.app)
+![image](https://github.com/user-attachments/assets/0a15d1aa-a3ea-4ab8-903b-d8e8da0d666b)]
 
 
 
-[![Open Deployed App](https://img.shields.io/badge/Open%20Deployed%20App-Click%20Here-brightgreen)](https://insurance-fraud-prediction.streamlit.app)
+<a href="https://insurance-fraud-prediction.streamlit.app" style="display: inline-block; padding: 15px 30px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Open Deployed App</a>
 
 ## 📊 Overview
 
