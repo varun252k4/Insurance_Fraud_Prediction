@@ -1,6 +1,8 @@
 # 🕵️‍♂️ Insurance Fraud Detection App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://insurance-fraud-detection.streamlit.app)
+[![Streamlit App]![image](https://github.com/user-attachments/assets/0a15d1aa-a3ea-4ab8-903b-d8e8da0d666b)](https://insurance-fraud-detection.streamlit.app)
+
+
 
 ## 📊 Overview
 
