@@ -23,7 +23,7 @@ This Streamlit app provides a powerful tool for detecting insurance fraud using 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/insurance-fraud-detection.git
+   git clone https://github.com/varun252k4/insurance-fraud-detection.git
    ```
 2. Navigate to the project directory:
    ```
