@@ -1,14 +1,16 @@
 # 🕵️‍♂️ Insurance Fraud Detection App
 
-[![Streamlit App]![image](https://github.com/user-attachments/assets/0a15d1aa-a3ea-4ab8-903b-d8e8da0d666b)](https://insurance-fraud-detection.streamlit.app)
+![image](https://github.com/user-attachments/assets/0a15d1aa-a3ea-4ab8-903b-d8e8da0d666b)](https://insurance-fraud-detection.streamlit.app)
 
 
+
+[![Open Deployed App](https://img.shields.io/badge/Open%20Deployed%20App-Click%20Here-brightgreen)](https://insurance-fraud-prediction.streamlit.app)
 
 ## 📊 Overview
 
 This Streamlit app provides a powerful tool for detecting insurance fraud using machine learning techniques. It offers an intuitive interface for data exploration, model comparison, and real-time fraud predictions.
+![image](https://github.com/user-attachments/assets/a91465ff-2d82-4914-91b7-3a6f5720aeb4)
 
-![App Screenshot](https://via.placeholder.com/600x300.png?text=Insurance+Fraud+Detection+App)
 
 ## 🚀 Features
 
@@ -59,7 +61,8 @@ Compare the performance of different machine learning models:
 
 Use the interactive interface to input claim details and get instant fraud predictions:
 
-![Prediction Interface](https://via.placeholder.com/600x200.png?text=Prediction+Interface)
+![image](https://github.com/user-attachments/assets/c709e68c-577e-47be-b6c4-a3c0c19c3241)
+
 
 ## 🤝 Contributing
 
